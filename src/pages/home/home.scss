@@ -1,0 +1,25 @@
+page-home {
+// .container{
+//     background-image: url('../assets/imgs/clouds.jpg');
+//     //   background-repeat: no-repeat;
+//     //   background-position:center;
+//       background-size: 100% 100%;
+     
+// }
+.content{
+    background-image: url('../assets/imgs/clouds.jpg');
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.item{
+    background-color: rgba(0.0,0.0,0.0,0.4);
+    // background: transparent;
+    border: 10px;
+    padding:20px;
+    box-shadow: none;
+    color:rgba(240, 248, 255, 0.815);
+    border-radius: 29px;
+}
+}
